@@ -1,5 +1,5 @@
 
-# Apunte: ¿Qué es un **Comando en Linux**?
+# ¿Qué es un **Comando en Linux**?
 
 ## Concepto General
 Un **comando en Linux** es una **instrucción que le damos a la Shell** para que realice una acción concreta sobre el sistema operativo.  
