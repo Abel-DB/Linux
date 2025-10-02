@@ -252,7 +252,7 @@ info tar
 
 ---
 
-4. `whatis` (descripción corta)
+## 4. `whatis` (descripción corta)
 
 `whatis` permite obtener una **descripción breve de un comando**, generalmente de una sola línea.  
 Es útil cuando solo quieres **recordar rápidamente qué hace un comando** sin abrir el manual completo.
