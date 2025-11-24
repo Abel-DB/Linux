@@ -10,9 +10,9 @@ Este apunte cubre todo lo esencial sobre la creación y gestión de archivos y d
 Linux distingue entre mayúsculas y minúsculas (case-sensitive).  
 Ejemplo:
 
-proyecto
-Proyecto
-PROYECTO
+- proyecto
+- Proyecto
+- PROYECTO
 
 Son **tres directorios diferentes**.
 
